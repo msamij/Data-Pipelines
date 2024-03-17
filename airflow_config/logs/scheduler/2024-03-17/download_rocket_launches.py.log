@@ -1,0 +1,671 @@
+[2024-03-17T08:52:28.578+0500] {processor.py:161} INFO - Started process (PID=6364) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:52:28.578+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T08:52:28.579+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:52:28.579+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:52:28.585+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:52:28.750+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:52:28.749+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T08:52:28.757+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:52:28.757+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T08:52:28.870+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.295 seconds
+[2024-03-17T08:53:35.238+0500] {processor.py:161} INFO - Started process (PID=6693) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:53:35.239+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T08:53:35.240+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:53:35.240+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:53:35.246+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:53:35.341+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:53:35.341+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T08:53:35.353+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:53:35.352+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T08:53:35.459+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.224 seconds
+[2024-03-17T08:54:48.206+0500] {processor.py:161} INFO - Started process (PID=7308) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:54:48.207+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T08:54:48.209+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:54:48.208+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:54:48.214+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:54:48.226+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:54:48.226+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T08:54:48.236+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:54:48.236+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T08:54:48.336+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.133 seconds
+[2024-03-17T08:56:03.858+0500] {processor.py:161} INFO - Started process (PID=7453) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:56:03.859+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T08:56:03.860+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:56:03.860+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:56:03.867+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:56:03.881+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:56:03.881+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T08:56:03.891+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:56:03.891+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T08:56:04.058+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.203 seconds
+[2024-03-17T08:57:15.515+0500] {processor.py:161} INFO - Started process (PID=7705) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:57:15.517+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T08:57:15.518+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:57:15.518+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:57:15.525+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:57:15.538+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:57:15.538+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T08:57:15.549+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:57:15.548+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T08:57:15.664+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.151 seconds
+[2024-03-17T08:58:35.995+0500] {processor.py:161} INFO - Started process (PID=7921) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:58:35.996+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T08:58:35.997+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:58:35.997+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:58:36.003+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:58:36.016+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:58:36.016+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T08:58:36.027+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:58:36.027+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T08:58:36.147+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.155 seconds
+[2024-03-17T08:59:58.220+0500] {processor.py:161} INFO - Started process (PID=8067) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:59:58.233+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T08:59:58.234+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:59:58.233+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:59:58.239+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T08:59:58.251+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:59:58.251+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T08:59:58.261+0500] {logging_mixin.py:188} INFO - [2024-03-17T08:59:58.261+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T08:59:58.389+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.171 seconds
+[2024-03-17T09:01:17.382+0500] {processor.py:161} INFO - Started process (PID=8335) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:01:17.391+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:01:17.392+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:01:17.392+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:01:17.398+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:01:17.410+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:01:17.410+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:01:17.420+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:01:17.419+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:01:17.521+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.141 seconds
+[2024-03-17T09:02:33.694+0500] {processor.py:161} INFO - Started process (PID=8543) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:02:33.706+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:02:33.708+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:02:33.707+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:02:33.714+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:02:33.726+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:02:33.726+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:02:33.738+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:02:33.737+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:02:33.855+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.164 seconds
+[2024-03-17T09:03:54.815+0500] {processor.py:161} INFO - Started process (PID=8689) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:03:54.833+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:03:54.834+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:03:54.834+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:03:54.839+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:03:54.852+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:03:54.852+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:03:54.862+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:03:54.862+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:03:54.962+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.150 seconds
+[2024-03-17T09:05:10.460+0500] {processor.py:161} INFO - Started process (PID=8836) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:05:10.461+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:05:10.462+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:05:10.461+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:05:10.467+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:05:10.479+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:05:10.479+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:05:10.489+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:05:10.489+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:05:10.603+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.145 seconds
+[2024-03-17T09:06:28.794+0500] {processor.py:161} INFO - Started process (PID=9119) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:06:28.807+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:06:28.808+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:06:28.808+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:06:28.814+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:06:28.826+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:06:28.826+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:06:28.836+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:06:28.836+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:06:28.945+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.153 seconds
+[2024-03-17T09:07:42.761+0500] {processor.py:161} INFO - Started process (PID=9294) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:07:42.771+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:07:42.772+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:07:42.772+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:07:42.777+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:07:42.789+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:07:42.789+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:07:42.800+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:07:42.799+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:07:42.904+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.146 seconds
+[2024-03-17T09:08:57.324+0500] {processor.py:161} INFO - Started process (PID=9429) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:08:57.334+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:08:57.336+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:08:57.335+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:08:57.341+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:08:57.354+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:08:57.354+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:08:57.364+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:08:57.364+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:08:57.477+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.156 seconds
+[2024-03-17T09:10:09.638+0500] {processor.py:161} INFO - Started process (PID=9571) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:10:09.654+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:10:09.655+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:10:09.655+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:10:09.661+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:10:09.675+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:10:09.674+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:10:09.684+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:10:09.684+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:10:09.795+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.160 seconds
+[2024-03-17T09:11:27.359+0500] {processor.py:161} INFO - Started process (PID=9826) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:11:27.374+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:11:27.375+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:11:27.375+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:11:27.380+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:11:27.394+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:11:27.394+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:11:27.404+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:11:27.404+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:11:27.513+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.157 seconds
+[2024-03-17T09:12:39.022+0500] {processor.py:161} INFO - Started process (PID=9973) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:12:39.034+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:12:39.035+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:12:39.035+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:12:39.041+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:12:39.053+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:12:39.052+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:12:39.062+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:12:39.062+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:12:39.164+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.145 seconds
+[2024-03-17T09:13:52.573+0500] {processor.py:161} INFO - Started process (PID=10144) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:13:52.584+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:13:52.585+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:13:52.585+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:13:52.590+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:13:52.602+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:13:52.602+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:13:52.612+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:13:52.612+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:13:52.731+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.161 seconds
+[2024-03-17T09:15:08.682+0500] {processor.py:161} INFO - Started process (PID=10287) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:15:08.699+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:15:08.701+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:15:08.700+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:15:08.711+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:15:08.742+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:15:08.742+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:15:08.760+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:15:08.760+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:15:08.881+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.202 seconds
+[2024-03-17T09:16:00.035+0500] {processor.py:161} INFO - Started process (PID=10414) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:00.043+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:16:00.044+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:16:00.043+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:00.072+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:16:00.051+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 18, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:16:00.073+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:00.218+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.188 seconds
+[2024-03-17T09:16:25.281+0500] {processor.py:161} INFO - Started process (PID=10570) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:25.281+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:16:25.282+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:16:25.282+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:25.290+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:16:25.289+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 58, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:16:25.290+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:25.407+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.129 seconds
+[2024-03-17T09:16:52.979+0500] {processor.py:161} INFO - Started process (PID=10728) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:53.030+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:16:53.032+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:16:53.031+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:53.048+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:16:53.046+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 52, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:16:53.048+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:16:53.792+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.816 seconds
+[2024-03-17T09:17:45.345+0500] {processor.py:161} INFO - Started process (PID=10858) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:17:45.362+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:17:45.363+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:17:45.362+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:17:45.368+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:17:45.367+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 52, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:17:45.369+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:17:45.485+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.142 seconds
+[2024-03-17T09:18:11.250+0500] {processor.py:161} INFO - Started process (PID=10887) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:18:11.251+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:18:11.252+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:18:11.252+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:18:11.260+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:18:11.259+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 56, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:18:11.261+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:18:11.360+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.112 seconds
+[2024-03-17T09:19:04.274+0500] {processor.py:161} INFO - Started process (PID=11009) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:19:04.289+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:19:04.290+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:19:04.290+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:19:04.296+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:19:04.294+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 56, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:19:04.296+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:19:04.406+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.134 seconds
+[2024-03-17T09:19:54.354+0500] {processor.py:161} INFO - Started process (PID=11122) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:19:54.355+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:19:54.356+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:19:54.356+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:19:54.363+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:19:54.362+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 56, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:19:54.363+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:19:54.466+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.115 seconds
+[2024-03-17T09:20:43.314+0500] {processor.py:161} INFO - Started process (PID=11229) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:20:43.316+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:20:43.317+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:20:43.316+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:20:43.323+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:20:43.322+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 56, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:20:43.324+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:20:43.427+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.115 seconds
+[2024-03-17T09:21:35.301+0500] {processor.py:161} INFO - Started process (PID=11408) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:21:35.319+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:21:35.319+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:21:35.319+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:21:35.325+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:21:35.324+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 56, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:21:35.325+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:21:35.434+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.135 seconds
+[2024-03-17T09:22:26.912+0500] {processor.py:161} INFO - Started process (PID=11527) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:22:26.914+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:22:26.915+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:22:26.914+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:22:26.921+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:22:26.920+0500] {dagbag.py:350} ERROR - Failed to import: /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py", line 56, in <module>
+    download_launches = PythonOperator(
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 420, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-03-17T09:22:26.921+0500] {processor.py:842} WARNING - No viable dags retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:22:27.019+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.109 seconds
+[2024-03-17T09:30:58.862+0500] {processor.py:161} INFO - Started process (PID=12004) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:30:58.874+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:30:58.875+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:30:58.875+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:30:58.883+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:30:58.890+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:30:58.890+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:30:58.901+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:30:58.901+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:30:59.088+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.228 seconds
+[2024-03-17T09:32:16.539+0500] {processor.py:161} INFO - Started process (PID=12806) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:32:16.550+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:32:16.551+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:32:16.550+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:32:16.556+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:32:16.716+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:32:16.715+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:32:16.723+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:32:16.723+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:32:16.826+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.290 seconds
+[2024-03-17T09:32:48.555+0500] {processor.py:161} INFO - Started process (PID=12835) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:32:48.556+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:32:48.557+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:32:48.557+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:32:48.563+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:32:48.576+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:32:48.576+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:32:48.586+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:32:48.585+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:32:48.680+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.128 seconds
+[2024-03-17T09:33:20.153+0500] {processor.py:161} INFO - Started process (PID=13043) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:33:20.164+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:33:20.165+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:33:20.165+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:33:20.171+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:33:20.287+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:33:20.287+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:33:20.296+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:33:20.296+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:33:20.397+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.248 seconds
+[2024-03-17T09:34:00.199+0500] {processor.py:161} INFO - Started process (PID=13351) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:34:00.201+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:34:00.203+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:34:00.203+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:34:00.329+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:34:00.343+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:34:00.342+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:34:00.357+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:34:00.357+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:34:00.460+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.266 seconds
+[2024-03-17T09:34:30.678+0500] {processor.py:161} INFO - Started process (PID=13431) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:34:30.680+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:34:30.681+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:34:30.680+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:34:30.687+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:34:30.700+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:34:30.700+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:34:30.711+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:34:30.711+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:34:30.813+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.138 seconds
+[2024-03-17T09:35:27.403+0500] {processor.py:161} INFO - Started process (PID=13559) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:35:27.404+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:35:27.405+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:35:27.405+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:35:27.413+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:35:27.425+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:35:27.425+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:35:27.437+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:35:27.436+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:35:27.546+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.147 seconds
+[2024-03-17T09:36:20.019+0500] {processor.py:161} INFO - Started process (PID=13729) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:36:20.031+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:36:20.032+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:36:20.031+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:36:20.037+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:36:20.049+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:36:20.049+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:36:20.060+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:36:20.059+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:36:20.172+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.156 seconds
+[2024-03-17T09:36:53.091+0500] {processor.py:161} INFO - Started process (PID=13952) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:36:53.092+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:36:53.093+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:36:53.093+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:36:53.100+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:36:53.112+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:36:53.112+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:36:53.122+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:36:53.122+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:36:53.231+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.143 seconds
+[2024-03-17T09:37:27.003+0500] {processor.py:161} INFO - Started process (PID=14047) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:37:27.004+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:37:27.005+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:37:27.005+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:37:27.011+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:37:27.024+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:37:27.024+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:37:27.034+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:37:27.034+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:37:27.139+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.139 seconds
+[2024-03-17T09:38:20.346+0500] {processor.py:161} INFO - Started process (PID=14157) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:38:20.347+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:38:20.349+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:38:20.348+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:38:20.355+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:38:20.372+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:38:20.371+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:38:20.390+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:38:20.389+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:38:20.489+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.147 seconds
+[2024-03-17T09:38:58.053+0500] {processor.py:161} INFO - Started process (PID=14386) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:38:58.055+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:38:58.056+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:38:58.056+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:38:58.064+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:38:58.081+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:38:58.080+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:38:58.091+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:38:58.091+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:38:58.189+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.141 seconds
+[2024-03-17T09:39:34.918+0500] {processor.py:161} INFO - Started process (PID=14484) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:39:34.919+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:39:34.922+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:39:34.921+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:39:34.928+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:39:34.941+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:39:34.941+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:39:34.951+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:39:34.950+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:39:35.055+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.141 seconds
+[2024-03-17T09:39:59.070+0500] {processor.py:161} INFO - Started process (PID=14522) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:39:59.071+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T09:39:59.072+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:39:59.072+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:39:59.079+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T09:39:59.094+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:39:59.094+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T09:39:59.119+0500] {logging_mixin.py:188} INFO - [2024-03-17T09:39:59.118+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T09:39:59.329+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.261 seconds
+[2024-03-17T10:28:19.231+0500] {processor.py:161} INFO - Started process (PID=17167) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:28:19.242+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:28:19.243+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:28:19.243+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:28:19.252+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:28:19.260+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:28:19.259+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:28:19.272+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:28:19.272+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:28:19.431+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.202 seconds
+[2024-03-17T10:30:18.724+0500] {processor.py:161} INFO - Started process (PID=18334) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:30:18.726+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:30:18.727+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:30:18.727+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:30:18.738+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:30:18.912+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:30:18.912+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:30:18.920+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:30:18.920+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:30:19.104+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.383 seconds
+[2024-03-17T10:31:44.530+0500] {processor.py:161} INFO - Started process (PID=19112) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:31:44.550+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:31:44.551+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:31:44.550+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:31:44.556+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:31:44.574+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:31:44.573+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:31:44.589+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:31:44.589+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:31:44.813+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.287 seconds
+[2024-03-17T10:32:43.485+0500] {processor.py:161} INFO - Started process (PID=19368) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:32:43.497+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:32:43.497+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:32:43.497+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:32:43.502+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:32:43.515+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:32:43.515+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:32:43.524+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:32:43.524+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:32:43.625+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.142 seconds
+[2024-03-17T10:33:37.386+0500] {processor.py:161} INFO - Started process (PID=19544) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:33:37.388+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:33:37.389+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:33:37.388+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:33:37.396+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:33:37.408+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:33:37.408+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:33:37.419+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:33:37.419+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:33:37.552+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.168 seconds
+[2024-03-17T10:34:28.383+0500] {processor.py:161} INFO - Started process (PID=19659) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:34:28.444+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:34:28.445+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:34:28.445+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:34:28.452+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:34:30.530+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:34:30.529+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:34:30.874+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:34:30.874+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:34:31.238+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 2.860 seconds
+[2024-03-17T10:35:11.022+0500] {processor.py:161} INFO - Started process (PID=20201) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:35:11.030+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:35:11.030+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:35:11.030+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:35:11.036+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:35:11.047+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:35:11.047+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:35:11.057+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:35:11.057+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:35:11.157+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.138 seconds
+[2024-03-17T10:35:48.457+0500] {processor.py:161} INFO - Started process (PID=20329) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:35:48.458+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:35:48.459+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:35:48.458+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:35:48.466+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:35:48.482+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:35:48.481+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:35:48.493+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:35:48.493+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:35:48.593+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.139 seconds
+[2024-03-17T10:36:46.106+0500] {processor.py:161} INFO - Started process (PID=20682) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:36:46.107+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:36:46.108+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:36:46.108+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:36:46.114+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:36:46.126+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:36:46.125+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:36:46.135+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:36:46.135+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:36:46.236+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.133 seconds
+[2024-03-17T10:37:19.905+0500] {processor.py:161} INFO - Started process (PID=20716) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:37:19.906+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:37:19.907+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:37:19.907+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:37:19.914+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:37:19.927+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:37:19.926+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:37:19.937+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:37:19.936+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:37:20.050+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.148 seconds
+[2024-03-17T10:38:06.395+0500] {processor.py:161} INFO - Started process (PID=20827) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:38:06.396+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:38:06.397+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:38:06.397+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:38:06.404+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:38:06.421+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:38:06.421+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:38:06.431+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:38:06.430+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:38:06.528+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.135 seconds
+[2024-03-17T10:38:54.293+0500] {processor.py:161} INFO - Started process (PID=21115) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:38:54.310+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:38:54.311+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:38:54.310+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:38:54.316+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:38:54.328+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:38:54.328+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:38:54.338+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:38:54.338+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:38:54.453+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.162 seconds
+[2024-03-17T10:39:44.299+0500] {processor.py:161} INFO - Started process (PID=21344) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:39:44.312+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:39:44.313+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:39:44.312+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:39:44.318+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:39:44.330+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:39:44.330+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:39:44.340+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:39:44.340+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:39:44.454+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.158 seconds
+[2024-03-17T10:40:30.309+0500] {processor.py:161} INFO - Started process (PID=21454) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:40:30.310+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:40:30.311+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:40:30.311+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:40:30.317+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:40:30.331+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:40:30.331+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:40:30.341+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:40:30.341+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:40:30.440+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.133 seconds
+[2024-03-17T10:41:22.250+0500] {processor.py:161} INFO - Started process (PID=21684) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:41:22.251+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:41:22.252+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:41:22.252+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:41:22.257+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:41:22.271+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:41:22.271+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:41:22.281+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:41:22.281+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:41:22.390+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.142 seconds
+[2024-03-17T10:42:13.710+0500] {processor.py:161} INFO - Started process (PID=21797) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:42:13.728+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:42:13.729+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:42:13.728+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:42:13.734+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:42:13.748+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:42:13.748+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:42:13.762+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:42:13.761+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:42:13.865+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.158 seconds
+[2024-03-17T10:43:05.210+0500] {processor.py:161} INFO - Started process (PID=22088) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:43:05.230+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:43:05.231+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:43:05.231+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:43:05.237+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:43:05.249+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:43:05.249+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:43:05.259+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:43:05.259+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:43:05.368+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.161 seconds
+[2024-03-17T10:44:00.466+0500] {processor.py:161} INFO - Started process (PID=22340) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:00.467+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:44:00.468+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:00.468+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:00.475+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:00.489+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:00.489+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:44:00.500+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:00.500+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:44:00.604+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.143 seconds
+[2024-03-17T10:44:23.824+0500] {processor.py:161} INFO - Started process (PID=22429) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:23.825+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:44:23.826+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:23.826+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:23.834+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:23.849+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:23.849+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:44:23.862+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:23.862+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:44:24.043+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.222 seconds
+[2024-03-17T10:44:47.895+0500] {processor.py:161} INFO - Started process (PID=22461) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:47.896+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:44:47.897+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:47.897+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:47.904+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:44:47.916+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:47.916+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:44:47.925+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:44:47.925+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:44:48.034+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.142 seconds
+[2024-03-17T10:45:40.181+0500] {processor.py:161} INFO - Started process (PID=22580) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:45:40.199+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:45:40.200+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:45:40.199+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:45:40.205+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:45:40.218+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:45:40.217+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:45:40.227+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:45:40.227+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:45:40.333+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.155 seconds
+[2024-03-17T10:46:07.102+0500] {processor.py:161} INFO - Started process (PID=22613) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:46:07.103+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:46:07.104+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:46:07.104+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:46:07.111+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:46:07.123+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:46:07.123+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:46:07.133+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:46:07.133+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:46:07.253+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.153 seconds
+[2024-03-17T10:46:59.244+0500] {processor.py:161} INFO - Started process (PID=22733) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:46:59.263+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:46:59.264+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:46:59.264+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:46:59.273+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:46:59.290+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:46:59.289+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:46:59.308+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:46:59.308+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:46:59.422+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.182 seconds
+[2024-03-17T10:47:26.276+0500] {processor.py:161} INFO - Started process (PID=22819) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:47:26.277+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:47:26.278+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:47:26.278+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:47:26.289+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:47:26.310+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:47:26.310+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:47:26.326+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:47:26.326+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:47:26.426+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.155 seconds
+[2024-03-17T10:48:17.440+0500] {processor.py:161} INFO - Started process (PID=22869) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:48:17.458+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:48:17.459+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:48:17.459+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:48:17.464+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:48:17.476+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:48:17.476+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:48:17.486+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:48:17.486+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:48:17.585+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.147 seconds
+[2024-03-17T10:49:05.687+0500] {processor.py:161} INFO - Started process (PID=23039) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:49:05.689+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:49:05.690+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:49:05.690+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:49:05.697+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:49:05.710+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:49:05.710+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:49:05.721+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:49:05.721+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:49:05.823+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.140 seconds
+[2024-03-17T10:50:15.847+0500] {processor.py:161} INFO - Started process (PID=23794) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:50:15.861+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:50:15.862+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:50:15.862+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:50:15.867+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:50:15.880+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:50:15.879+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:50:15.889+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:50:15.889+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:50:16.005+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.161 seconds
+[2024-03-17T10:50:54.683+0500] {processor.py:161} INFO - Started process (PID=24070) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:50:54.685+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:50:54.686+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:50:54.686+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:50:54.692+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:50:54.706+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:50:54.706+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:50:54.716+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:50:54.716+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:50:54.843+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.162 seconds
+[2024-03-17T10:51:44.853+0500] {processor.py:161} INFO - Started process (PID=24188) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:51:44.876+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:51:44.877+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:51:44.876+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:51:44.882+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:51:44.895+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:51:44.895+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:51:44.905+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:51:44.905+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:51:45.020+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.169 seconds
+[2024-03-17T10:52:36.054+0500] {processor.py:161} INFO - Started process (PID=24304) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:52:36.069+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:52:36.070+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:52:36.070+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:52:36.077+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:52:36.094+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:52:36.093+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:52:36.103+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:52:36.103+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:52:36.212+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.160 seconds
+[2024-03-17T10:53:32.490+0500] {processor.py:161} INFO - Started process (PID=24461) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:53:32.502+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:53:32.503+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:53:32.503+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:53:32.508+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:53:32.520+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:53:32.520+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:53:32.530+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:53:32.530+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:53:32.643+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.156 seconds
+[2024-03-17T10:54:27.574+0500] {processor.py:161} INFO - Started process (PID=24585) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:54:27.584+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:54:27.586+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:54:27.585+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:54:27.594+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:54:27.611+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:54:27.611+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:54:27.624+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:54:27.623+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:54:27.757+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.187 seconds
+[2024-03-17T10:55:20.487+0500] {processor.py:161} INFO - Started process (PID=24764) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:55:20.503+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:55:20.504+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:55:20.504+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:55:20.509+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:55:20.524+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:55:20.523+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:55:20.537+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:55:20.537+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:55:20.654+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.169 seconds
+[2024-03-17T10:56:10.982+0500] {processor.py:161} INFO - Started process (PID=25022) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:56:10.996+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:56:10.997+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:56:10.997+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:56:11.002+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:56:11.014+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:56:11.014+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:56:11.024+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:56:11.024+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:56:11.127+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.148 seconds
+[2024-03-17T10:57:03.441+0500] {processor.py:161} INFO - Started process (PID=25304) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:57:03.457+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:57:03.458+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:57:03.458+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:57:03.464+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:57:03.476+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:57:03.475+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:57:03.485+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:57:03.485+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:57:03.624+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.186 seconds
+[2024-03-17T10:57:56.987+0500] {processor.py:161} INFO - Started process (PID=25577) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:57:57.001+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:57:57.002+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:57:57.002+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:57:57.007+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:57:57.019+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:57:57.019+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:57:57.030+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:57:57.029+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:57:57.145+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.161 seconds
+[2024-03-17T10:58:42.112+0500] {processor.py:161} INFO - Started process (PID=25884) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:58:42.113+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:58:42.114+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:58:42.113+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:58:42.119+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:58:42.132+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:58:42.132+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:58:42.144+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:58:42.144+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:58:42.262+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.153 seconds
+[2024-03-17T10:59:31.002+0500] {processor.py:161} INFO - Started process (PID=26179) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:59:31.016+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T10:59:31.017+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:59:31.017+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:59:31.024+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T10:59:31.037+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:59:31.037+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T10:59:31.047+0500] {logging_mixin.py:188} INFO - [2024-03-17T10:59:31.046+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T10:59:31.149+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.150 seconds
+[2024-03-17T11:00:23.056+0500] {processor.py:161} INFO - Started process (PID=26487) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T11:00:23.062+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T11:00:23.064+0500] {logging_mixin.py:188} INFO - [2024-03-17T11:00:23.063+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T11:00:23.075+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T11:00:23.100+0500] {logging_mixin.py:188} INFO - [2024-03-17T11:00:23.100+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T11:00:23.118+0500] {logging_mixin.py:188} INFO - [2024-03-17T11:00:23.117+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T11:00:23.507+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.454 seconds
+[2024-03-17T11:01:30.370+0500] {processor.py:161} INFO - Started process (PID=26764) to work on /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T11:01:30.408+0500] {processor.py:830} INFO - Processing file /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py for tasks to queue
+[2024-03-17T11:01:30.409+0500] {logging_mixin.py:188} INFO - [2024-03-17T11:01:30.408+0500] {dagbag.py:540} INFO - Filling up the DagBag from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T11:01:30.785+0500] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py
+[2024-03-17T11:01:30.795+0500] {logging_mixin.py:188} INFO - [2024-03-17T11:01:30.794+0500] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T11:01:30.803+0500] {logging_mixin.py:188} INFO - [2024-03-17T11:01:30.803+0500] {dag.py:3834} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2024-03-17T11:01:30.955+0500] {processor.py:183} INFO - Processing /home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/GettingStarted/dags/download_rocket_launches.py took 0.591 seconds

@@ -1,0 +1,4 @@
+*.env/
+
+# Byte compiled
+**/__pycache__/

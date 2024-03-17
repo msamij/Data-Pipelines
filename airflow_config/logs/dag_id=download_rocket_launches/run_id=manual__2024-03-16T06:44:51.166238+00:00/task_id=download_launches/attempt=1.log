@@ -1,0 +1,29 @@
+[2024-03-16T11:44:58.264+0500] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: download_rocket_launches.download_launches manual__2024-03-16T06:44:51.166238+00:00 [queued]>
+[2024-03-16T11:44:58.272+0500] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: download_rocket_launches.download_launches manual__2024-03-16T06:44:51.166238+00:00 [queued]>
+[2024-03-16T11:44:58.272+0500] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-03-16T11:44:58.412+0500] {taskinstance.py:2217} INFO - Executing <Task(BashOperator): download_launches> on 2024-03-16 06:44:51.166238+00:00
+[2024-03-16T11:44:58.416+0500] {standard_task_runner.py:60} INFO - Started process 20568 to run task
+[2024-03-16T11:44:58.420+0500] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'download_rocket_launches', 'download_launches', 'manual__2024-03-16T06:44:51.166238+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/download_rocket_launches.py', '--cfg-path', '/tmp/tmpy8vhyuf4']
+[2024-03-16T11:44:58.421+0500] {standard_task_runner.py:88} INFO - Job 3: Subtask download_launches
+[2024-03-16T11:44:58.590+0500] {task_command.py:423} INFO - Running <TaskInstance: download_rocket_launches.download_launches manual__2024-03-16T06:44:51.166238+00:00 [running]> on host muhammadsami-Latitude-E6540
+[2024-03-16T11:44:58.817+0500] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='download_rocket_launches' AIRFLOW_CTX_TASK_ID='download_launches' AIRFLOW_CTX_EXECUTION_DATE='2024-03-16T06:44:51.166238+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-03-16T06:44:51.166238+00:00'
+[2024-03-16T11:44:58.818+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-03-16T11:44:58.818+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "curl -o /tmp/launches.json -L 'https://ll.thespacedevs.com/2.0.0/launch/upcoming'"]
+[2024-03-16T11:44:58.824+0500] {subprocess.py:86} INFO - Output:
+[2024-03-16T11:44:58.888+0500] {subprocess.py:93} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2024-03-16T11:44:58.888+0500] {subprocess.py:93} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2024-03-16T11:45:04.349+0500] {subprocess.py:93} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0curl: (6) Could not resolve host: ll.thespacedevs.com
+[2024-03-16T11:45:04.353+0500] {subprocess.py:97} INFO - Command exited with return code 6
+[2024-03-16T11:45:04.363+0500] {taskinstance.py:2731} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 444, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 414, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/muhammadsami/Public/Projects/Airflow/DataPipelineswithApacheAirflow/.env/lib/python3.8/site-packages/airflow/operators/bash.py", line 212, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 6.
+[2024-03-16T11:45:04.366+0500] {taskinstance.py:1149} INFO - Marking task as FAILED. dag_id=download_rocket_launches, task_id=download_launches, execution_date=20240316T064451, start_date=20240316T064458, end_date=20240316T064504
+[2024-03-16T11:45:04.485+0500] {standard_task_runner.py:107} ERROR - Failed to execute job 3 for task download_launches (Bash command failed. The command returned a non-zero exit code 6.; 20568)
+[2024-03-16T11:45:04.515+0500] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-03-16T11:45:04.540+0500] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check
